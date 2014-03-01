@@ -24,6 +24,10 @@ Designs for [galaxy](https://github.com/cvan/galaxy).
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/5.%20galaxy%20game%20submission@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/5.%20galaxy%20game%20submission@2x.png)
 
+## Game edit page
+
+[![](https://raw.github.com/cvan/galaxy-designs/master/v1/6.%20galaxy%20game%20edit@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/6.%20galaxy%20game%20edit@2x.png)
+
 ## Developer dashboard
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/7.%20galaxy%20developer%20dashboard@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/7.%20galaxy%20developer%20dashboard@2x.png)
