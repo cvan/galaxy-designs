@@ -43,3 +43,7 @@ Designs for [galaxy](https://github.com/cvan/galaxy).
 ## Curation modal
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/10.%20galaxy%20curation%20submission@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/10.%20galaxy%20curation%20submission@2x.png)
+
+## User settings
+
+[![](https://raw.github.com/cvan/galaxy-designs/master/v1/11.%20galaxy%20user%20settings@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/11.%20galaxy%20user%20settings@2x.png)
