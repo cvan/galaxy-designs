@@ -49,7 +49,6 @@ Milestone | Type | Task | Assignee | Issue | Pull request | Status
 v0 | API | Create an API endpoint to POST feedback | [@at-kevinlau](https://github.com/at-kevinlau) | [cvan/galaxy-api#123](https://github.com/cvan/galaxy-api/issues/123) | [cvan/galaxy-api#125](https://github.com/cvan/galaxy-api/pull/125) | pending review
 v0 | UI | Implement feedback modal | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#105](https://github.com/cvan/galaxy/issues/105) | [cvan/galaxy#111](https://github.com/cvan/galaxy/pull/111) | pending review
 
-
 ## Game submission
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/5.%20galaxy%20game%20submission@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/5.%20galaxy%20game%20submission@2x.png)
@@ -61,6 +60,10 @@ v0 | UI | Implement feedback modal | [@yangshun](https://github.com/yangshun) | 
 ## Developer dashboard
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/7.%20galaxy%20developer%20dashboard@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/7.%20galaxy%20developer%20dashboard@2x.png)
+
+Milestone | Type | Task | Assignee | Issue | Pull request | Status
+--------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | UI | Implement UI for Developer Dashboard (My Games) | [@CharlesChong](https://github.com/CharlesChong) | [cvan/galaxy#99](https://github.com/cvan/galaxy/issues/99) | [cvan/galaxy#109](https://github.com/cvan/galaxy/pull/109) | pending review
 
 ## Reviewer dashboard
 
