@@ -19,7 +19,7 @@ v0 | UI | Implement UI for homepage | | [cvan/galaxy#127](https://github.com/cva
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | UI | Implement image gallery for videos and screenshots | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#40](https://github.com/cvan/galaxy/issues/40) | | previous design started
-v0 | UI | Redesign game detail page per mocks | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#86](https://github.com/cvan/galaxy/issues/86) | [cvan/galaxy#94](https://github.com/cvan/galaxy/pull/94) | pending review
+v0 | UI | Redesign game detail page per mocks | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#86](https://github.com/cvan/galaxy/issues/86) | [cvan/galaxy#94](https://github.com/cvan/galaxy/pull/94) | in review
 v0 | UI | Hook up game detail page with real data | | [cvan/galaxy#119](https://github.com/cvan/galaxy/issues/119) | |
 v0 | API | Update game API endpoints to handle Number of Players | | [cvan/galaxy-api#131](https://github.com/cvan/galaxy-api/issues/131) | |
 v0 | UI | Update game detail page to show Number of Players | | [cvan/galaxy#120](https://github.com/cvan/galaxy/issues/120) | |
@@ -49,8 +49,8 @@ v0 | UI/API | Documentation for REST API | [@scottmeng](http://github.com/scottm
 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
-v0 | API | Create an API endpoint to POST feedback | [@at-kevinlau](https://github.com/at-kevinlau) | [cvan/galaxy-api#123](https://github.com/cvan/galaxy-api/issues/123) | [cvan/galaxy-api#125](https://github.com/cvan/galaxy-api/pull/125) | pending review
-v0 | UI | Implement feedback modal | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#105](https://github.com/cvan/galaxy/issues/105) | [cvan/galaxy#111](https://github.com/cvan/galaxy/pull/111) | pending review
+v0 | API | Create an API endpoint to POST feedback | [@at-kevinlau](https://github.com/at-kevinlau) | [cvan/galaxy-api#123](https://github.com/cvan/galaxy-api/issues/123) | [cvan/galaxy-api#125](https://github.com/cvan/galaxy-api/pull/125) | in review
+v0 | UI | Implement feedback modal | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#105](https://github.com/cvan/galaxy/issues/105) | [cvan/galaxy#111](https://github.com/cvan/galaxy/pull/111) | in review
 
 ## Game submission
 
@@ -66,7 +66,7 @@ v0 | UI | Implement feedback modal | [@yangshun](https://github.com/yangshun) | 
 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
-v0 | UI | Implement UI for Developer Dashboard (My Games) | [@CharlesChong](https://github.com/CharlesChong) | [cvan/galaxy#99](https://github.com/cvan/galaxy/issues/99) | [cvan/galaxy#109](https://github.com/cvan/galaxy/pull/109) | pending review
+v0 | UI | Implement UI for Developer Dashboard (My Games) | [@CharlesChong](https://github.com/CharlesChong) | [cvan/galaxy#99](https://github.com/cvan/galaxy/issues/99) | [cvan/galaxy#109](https://github.com/cvan/galaxy/pull/109) | in review
 
 ## Reviewer dashboard
 
@@ -85,7 +85,7 @@ v0 | UI | Tweaks to the Reviewer Dashboard table | | [cvan/galaxy#123](https://g
 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
-v0 | UI | Implement basic UI for Curation Dashboard | [@emoore24](https://github.com/emoore24) | [cvan/galaxy#124](https://github.com/cvan/galaxy/issues/124) | [cvan/galaxy#113](https://github.com/cvan/galaxy/pull/113) | pending review
+v0 | UI | Implement basic UI for Curation Dashboard | [@emoore24](https://github.com/emoore24) | [cvan/galaxy#124](https://github.com/cvan/galaxy/issues/124) | [cvan/galaxy#113](https://github.com/cvan/galaxy/pull/113) | in review
 v0 | UI | Add ability to drag-and-drop sort list of featured apps in Curation Dashboard | [@emoore24](https://github.com/emoore24) | [cvan/galaxy#125](https://github.com/cvan/galaxy/issues/125) | |
 
 ## Curation modal
@@ -95,8 +95,12 @@ v0 | UI | Add ability to drag-and-drop sort list of featured apps in Curation Da
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | UI | Implement basic UI for Curation Modal | | [cvan/galaxy#126](https://github.com/cvan/galaxy/issues/126) | |
-v0 | UI | Add client-based game searching for the curation modal | [@rchreptyk](https://github.com/rchreptyk) | [cvan/galaxy#108](https://github.com/cvan/galaxy/issues/108) | [cvan/galaxy#110](https://github.com/cvan/galaxy/issues/110) | pending review, WIP
+v0 | UI | Add client-based game searching for the curation modal | [@rchreptyk](https://github.com/rchreptyk) | [cvan/galaxy#108](https://github.com/cvan/galaxy/issues/108) | [cvan/galaxy#110](https://github.com/cvan/galaxy/issues/110) | in review, WIP
 
 ## User settings
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/11.%20galaxy%20user%20settings@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/11.%20galaxy%20user%20settings@2x.png)
+
+Milestone | Type | Task | Assignee | Issue | Pull request | Status
+--------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | UI | Beautify User Settings page | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy#112](https://github.com/cvan/galaxy/issues/112) | [cvan/galaxy#114](https://github.com/cvan/galaxy/issues/114) | in review
