@@ -8,6 +8,10 @@ Designs for [galaxy](https://github.com/cvan/galaxy).
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/1.%20galaxy%20home@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/1.%20galaxy%20home@2x.png)
 
+Milestone | Type | Task | Assignee | Issue | Pull request | Status
+--------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | UI | Implement UI for homepage | | [cvan/galaxy#127](https://github.com/cvan/galaxy/issues/127) | |
+
 ## Game detail page
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/2.%20galaxy%20detail@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/2.%20galaxy%20detail@2x.png)
