@@ -12,19 +12,18 @@ Designs for [galaxy](https://github.com/cvan/galaxy).
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/2.%20galaxy%20detail@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/2.%20galaxy%20detail@2x.png)
 
-Milestone | Type | Task | Assignee | Issue | Pull request
---------- | ---- | ---- | -------- | ----- | ------------
-v0 | UI | Implement image gallery for videos and screenshots | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#40](https://github.com/cvan/galaxy/issues/40) |
-v0 | UI | Redesign game detail page per mocks | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#86](https://github.com/cvan/galaxy/issues/86) | [cvan/galaxy#94](https://github.com/cvan/galaxy/pull/94)
-v0 | UI | Hook up game detail page with real data | | [cvan/galaxy#119](https://github.com/cvan/galaxy/issues/119) |
-v0 | API | Update game API endpoints to handle Number of Players | | [cvan/galaxy-api#131](https://github.com/cvan/galaxy-api/issues/131) |
-v0 | UI | Update game detail page to show Number of Players | | [cvan/galaxy#120](https://github.com/cvan/galaxy/issues/120) |
-v0 | API | Create an API endpoint to record game purchase/install | | [cvan/galaxy-api#128](https://github.com/cvan/galaxy-api/issues/128) | 
-v0 | UI | "Play" button should record game purchase/install | | [cvan/galaxy#117](https://github.com/cvan/galaxy/issues/117) | 
-v1 | UI | Send hash of client's feature compatibilities to API | | [cvan/galaxy#118](https://github.com/cvan/galaxy/issues/118)
-v1 | API | Update game submission/update API endpoints to handle browser requirements | | [cvan/galaxy-api#129](https://github.com/cvan/galaxy-api/issues/129)
-v1 | API | Exclude games that are incompatible for a user's device | | [cvan/galaxy-api#130](https://github.com/cvan/galaxy-api/issues/130)
-
+Milestone | Type | Task | Assignee | Issue | Pull request | Status
+--------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | UI | Implement image gallery for videos and screenshots | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#40](https://github.com/cvan/galaxy/issues/40) | | previous design started
+v0 | UI | Redesign game detail page per mocks | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#86](https://github.com/cvan/galaxy/issues/86) | [cvan/galaxy#94](https://github.com/cvan/galaxy/pull/94) | pending review
+v0 | UI | Hook up game detail page with real data | | [cvan/galaxy#119](https://github.com/cvan/galaxy/issues/119) | |
+v0 | API | Update game API endpoints to handle Number of Players | | [cvan/galaxy-api#131](https://github.com/cvan/galaxy-api/issues/131) | |
+v0 | UI | Update game detail page to show Number of Players | | [cvan/galaxy#120](https://github.com/cvan/galaxy/issues/120) | |
+v0 | API | Create an API endpoint to record game purchase/install | | [cvan/galaxy-api#128](https://github.com/cvan/galaxy-api/issues/128) | |
+v0 | UI | "Play" button should record game purchase/install | | [cvan/galaxy#117](https://github.com/cvan/galaxy/issues/117) | |
+v1 | UI | Send hash of client's feature compatibilities to API | | [cvan/galaxy#118](https://github.com/cvan/galaxy/issues/118) | |
+v1 | API | Update game submission/update API endpoints to handle browser requirements | | [cvan/galaxy-api#129](https://github.com/cvan/galaxy-api/issues/129) | |
+v1 | API | Exclude games that are incompatible for a user's device | | [cvan/galaxy-api#130](https://github.com/cvan/galaxy-api/issues/130) | |
 
 ## API documentation
 
@@ -36,9 +35,9 @@ v1 | API | Exclude games that are incompatible for a user's device | | [cvan/gal
 
 Everyone is encouraged to update the docs as we make adjustements to the API. Please sign up for an [Apiary account](http://apiary.io/) and tell [@cvan](http://github.com/cvan) the email address you used for your account so he can add you to the group.
 
-Milestone | Type | Task | Assignee | Issue | Pull request
---------- | ---- | ---- | -------- | ----- | ------------
-v0 | UI/API | Documentation for REST API | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy-api#112](https://github.com/cvan/galaxy-api/issues/112) | [docs.galaxy.apiary.io](http://docs.galaxy.apiary.io/)
+Milestone | Type | Task | Assignee | Issue | Pull request | Status
+--------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | UI/API | Documentation for REST API | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy-api#112](https://github.com/cvan/galaxy-api/issues/112) | [docs.galaxy.apiary.io](http://docs.galaxy.apiary.io/) | done
 
 ## Feedback modal
 
