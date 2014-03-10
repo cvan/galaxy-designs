@@ -119,3 +119,12 @@ v0 | UI | Add client-based game searching for the curation modal | [@rchreptyk](
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | UI | Beautify User Settings page | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy#112](https://github.com/cvan/galaxy/issues/112) | [cvan/galaxy#114](https://github.com/cvan/galaxy/issues/114) | in review
+
+## Tests
+
+![](http://f.cl.ly/items/0b0L171F2g0f3c2H430B/Image%202014.03.10%201%3A49%3A26%20AM.gif)
+
+Milestone | Type | Task | Assignee | Issue | Pull request | Status
+--------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | API | Beautify User Settings page | [@soedar](http://github.com/soedar) | [cvan/galaxy#124](https://github.com/cvan/galaxy/issues/124) | | in progress
+v0 | UI | End-to-end tests | | [cvan/galaxy#48](https://github.com/cvan/galaxy/issues/48) | |
