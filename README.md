@@ -59,7 +59,7 @@ v0 | UI | Implement feedback modal | [@yangshun](https://github.com/yangshun) | 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | UI | Use aviary for resizing, cropping, uploading icon uploads | [@cvan](http://github.com/cvan) | [cvan/galaxy#49](https://github.com/cvan/galaxy/issues/49)<br>[cvan/galaxy#98](https://github.com/cvan/galaxy/issues/98)  | [cvan/galaxy#115](https://github.com/cvan/galaxy/issues/115) | merged
-v0 | UI | Hook up file upload + aviary cropping for screenshots | | [cvan/galaxy#129](https://github.com/cvan/galaxy/issues/129) | |
+v0 | UI | Hook up file upload + aviary cropping for screenshots | [@birkanu](http://github.com/birkanu) | [cvan/galaxy#129](https://github.com/cvan/galaxy/issues/129) | |
 v0 | UI | Fix icon upload bug when icon is updated | | [cvan/galaxy#130](https://github.com/cvan/galaxy/issues/130) | |
 v0 | UI | Store images on disk upon submission | | [cvan/galaxy-api#30](https://github.com/cvan/galaxy-api/issues/30) | |
 v0 | UI | Redesign game submission/edit pages per mocks | [@birkanu](https://github.com/birkanu)<br>[@yangshun](https://github.com/yangshun) | [cvan/galaxy#98](https://github.com/cvan/galaxy/issues/98) | | in progress
