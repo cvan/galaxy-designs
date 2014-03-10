@@ -126,5 +126,5 @@ v0 | UI | Beautify User Settings page | [@scottmeng](http://github.com/scottmeng
 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
-v0 | API | Beautify User Settings page | [@soedar](http://github.com/soedar) | [cvan/galaxy#124](https://github.com/cvan/galaxy/issues/124) | | in progress
+v0 | API | Investigate testing | [@soedar](http://github.com/soedar) | [cvan/galaxy-api#124](https://github.com/cvan/galaxy-api/issues/124) | | in progress
 v0 | UI | End-to-end tests | | [cvan/galaxy#48](https://github.com/cvan/galaxy/issues/48) | |
