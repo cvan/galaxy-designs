@@ -87,6 +87,7 @@ Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | UI | Implement basic UI for Curation Dashboard | [@emoore24](https://github.com/emoore24) | [cvan/galaxy#124](https://github.com/cvan/galaxy/issues/124) | [cvan/galaxy#113](https://github.com/cvan/galaxy/pull/113) | in review
 v0 | UI | Add ability to drag-and-drop sort list of featured apps in Curation Dashboard | [@emoore24](https://github.com/emoore24) | [cvan/galaxy#125](https://github.com/cvan/galaxy/issues/125) | |
+v0 | API | Send back game objects from featured endpoint | [@emoore24](https://github.com/emoore24) | | [cvan/galaxy-api#132](https://github.com/cvan/galaxy-api/pull/132) | in review
 
 ## Curation modal
 
