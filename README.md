@@ -40,11 +40,15 @@ Milestone | Type | Task | Assignee | Issue | Pull request
 --------- | ---- | ---- | -------- | ----- | ------------
 v0 | UI/API | Documentation for REST API | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy-api#112](https://github.com/cvan/galaxy-api/issues/112) | [docs.galaxy.apiary.io](http://docs.galaxy.apiary.io/)
 
-https://github.com/cvan/galaxy-api/issues/112
-
 ## Feedback modal
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/4.%20galaxy%20feedback@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/4.%20galaxy%20feedback@2x.png)
+
+Milestone | Type | Task | Assignee | Issue | Pull request | Status
+--------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | API | Create an API endpoint to POST feedback | [@at-kevinlau](https://github.com/at-kevinlau) | [cvan/galaxy-api#123](https://github.com/cvan/galaxy-api/issues/123) | [cvan/galaxy-api#125](https://github.com/cvan/galaxy-api/pull/125) | pending review
+v0 | UI | Implement feedback modal | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#105](https://github.com/cvan/galaxy/issues/105) | [cvan/galaxy#111](https://github.com/cvan/galaxy/pull/111) | pending review
+
 
 ## Game submission
 
