@@ -30,6 +30,18 @@ v1 | API | Exclude games that are incompatible for a user's device | | [cvan/gal
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/3.%20galaxy%20api@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/3.%20galaxy%20api@2x.png)
 
+[@scottmeng](http://github.com/scottmeng) has written a version of our docs using this amazing docs service called [Apiary](http://apiary.io):
+
+&nbsp;&nbsp;&nbsp;&nbsp;__http://docs.galaxy.apiary.io/__
+
+Everyone is encouraged to update the docs as we make adjustements to the API. Please sign up for an [Apiary account](http://apiary.io/) and tell [@cvan](http://github.com/cvan) the email address you used for your account so he can add you to the group.
+
+Milestone | Type | Task | Assignee | Issue | Pull request
+--------- | ---- | ---- | -------- | ----- | ------------
+v0 | UI/API | Documentation for REST API | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy-api#112](https://github.com/cvan/galaxy-api/issues/112) | [docs.galaxy.apiary.io](http://docs.galaxy.apiary.io/)
+
+https://github.com/cvan/galaxy-api/issues/112
+
 ## Feedback modal
 
 [![](https://raw.github.com/cvan/galaxy-designs/master/v1/4.%20galaxy%20feedback@2x.png)](https://raw.github.com/cvan/galaxy-designs/master/v1/4.%20galaxy%20feedback@2x.png)
