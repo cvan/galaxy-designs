@@ -10,7 +10,7 @@ Designs for [galaxy](https://github.com/cvan/galaxy).
 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
-v0 | UI | Implement UI for homepage | | [cvan/galaxy#127](https://github.com/cvan/galaxy/issues/127) | |
+v0 | UI | Implement UI for homepage | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#127](https://github.com/cvan/galaxy/issues/127) | |
 
 ## Game detail page
 
