@@ -49,6 +49,7 @@ v0 | UI/API | Documentation for REST API | [@scottmeng](http://github.com/scottm
 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | API | Send email to user when feedback is received |  | [cvan/galaxy-api#140](https://github.com/cvan/galaxy-api/issues/140) |  | 
 v0 | API | Create an API endpoint to POST feedback | [@at-kevinlau](https://github.com/at-kevinlau) | [cvan/galaxy-api#123](https://github.com/cvan/galaxy-api/issues/123) | [cvan/galaxy-api#125](https://github.com/cvan/galaxy-api/pull/125) | in review
 v0 | UI | Implement feedback modal | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#105](https://github.com/cvan/galaxy/issues/105) | [cvan/galaxy#111](https://github.com/cvan/galaxy/pull/111) | in review
 
