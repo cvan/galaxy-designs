@@ -19,7 +19,7 @@ v0 | UI | Implement UI for homepage | [@yangshun](https://github.com/yangshun) |
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | UI | Implement image gallery for videos and screenshots | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#40](https://github.com/cvan/galaxy/issues/40) | | previous design started
-v0 | UI | Redesign game detail page per mocks | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#86](https://github.com/cvan/galaxy/issues/86) | [cvan/galaxy#94](https://github.com/cvan/galaxy/pull/94) | in review
+v0 | UI | Redesign game detail page per mocks | [@yangshun](https://github.com/yangshun) | [cvan/galaxy#86](https://github.com/cvan/galaxy/issues/86) | [cvan/galaxy#94](https://github.com/cvan/galaxy/pull/94) | merged
 v0 | UI | Hook up game detail page with real data | | [cvan/galaxy#119](https://github.com/cvan/galaxy/issues/119) | |
 v0 | API | Update game API endpoints to handle Number of Players | | [cvan/galaxy-api#131](https://github.com/cvan/galaxy-api/issues/131) | |
 v0 | UI | Update game detail page to show Number of Players | | [cvan/galaxy#120](https://github.com/cvan/galaxy/issues/120) | |
