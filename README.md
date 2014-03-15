@@ -90,9 +90,9 @@ v0 | UI | Implement UI for Developer Dashboard (My Games) | [@CharlesChong](http
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | UI | Implement basic UI for Reviewer Dashboard | [@aricha](https://github.com/aricha) | [cvan/galaxy#15](https://github.com/cvan/galaxy/issues/15) | [cvan/galaxy#83](https://github.com/cvan/galaxy/pull/83) | merged
-v0 | UI | Add status drop-down menu to Reviewer Dashboard | | [cvan/galaxy#121](https://github.com/cvan/galaxy/issues/121) | |
-v0 | UI | Add buttons to view/edit/delete/disable game from Reviewer Dashboard | | [cvan/galaxy#122](https://github.com/cvan/galaxy/issues/122) | |
-v0 | UI | Tweaks to the Reviewer Dashboard table | | [cvan/galaxy#123](https://github.com/cvan/galaxy/issues/123) | |
+v0 | UI | Add status drop-down menu to Reviewer Dashboard | [@aricha](https://github.com/aricha) | [cvan/galaxy#121](https://github.com/cvan/galaxy/issues/121) | |
+v0 | UI | Add buttons to view/edit/delete/disable game from Reviewer Dashboard | [@aricha](https://github.com/aricha) | [cvan/galaxy#122](https://github.com/cvan/galaxy/issues/122) | |
+v0 | UI | Tweaks to the Reviewer Dashboard table | [@aricha](https://github.com/aricha) | [cvan/galaxy#123](https://github.com/cvan/galaxy/issues/123) | |
 
 ## Curation dashboard
 
