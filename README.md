@@ -23,8 +23,8 @@ v0 | UI | Redesign game detail page per mocks | [@yangshun](https://github.com/y
 v0 | UI | Hook up game detail page with real data | | [cvan/galaxy#119](https://github.com/cvan/galaxy/issues/119) | |
 v0 | API | Update game API endpoints to handle Number of Players | | [cvan/galaxy-api#131](https://github.com/cvan/galaxy-api/issues/131) | |
 v0 | UI | Update game detail page to show Number of Players | | [cvan/galaxy#120](https://github.com/cvan/galaxy/issues/120) | |
-v0 | API | Create an API endpoint to record game purchase/install | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy-api#128](https://github.com/cvan/galaxy-api/issues/128) | |
-v0 | UI | "Play" button should record game purchase/install | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy#117](https://github.com/cvan/galaxy/issues/117) | |
+v0 | API | Create an API endpoint to record game purchase/install | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy-api#128](https://github.com/cvan/galaxy-api/issues/128) | | merged
+v0 | UI | "Play" button should record game purchase/install | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy#117] (https://github.com/cvan/galaxy/issues/117) | | merged
 v1 | UI | Send hash of client's feature compatibilities to API | | [cvan/galaxy#118](https://github.com/cvan/galaxy/issues/118) | |
 v1 | API | Update game submission/update API endpoints to handle browser requirements | | [cvan/galaxy-api#129](https://github.com/cvan/galaxy-api/issues/129) | |
 v1 | API | Exclude games that are incompatible for a user's device | | [cvan/galaxy-api#130](https://github.com/cvan/galaxy-api/issues/130) | |
@@ -119,7 +119,7 @@ v0 | UI | Add client-based game searching for the curation modal | [@rchreptyk](
 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
-v0 | UI | Beautify User Settings page | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy#112](https://github.com/cvan/galaxy/issues/112) | [cvan/galaxy#114](https://github.com/cvan/galaxy/issues/114) | in review
+v0 | UI | Beautify User Settings page | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy#112](https://github.com/cvan/galaxy/issues/112) | [cvan/galaxy#114](https://github.com/cvan/galaxy/issues/114) | done
 
 ## Tests
 
@@ -128,4 +128,4 @@ v0 | UI | Beautify User Settings page | [@scottmeng](http://github.com/scottmeng
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | API | Investigate testing | [@soedar](http://github.com/soedar) | [cvan/galaxy-api#124](https://github.com/cvan/galaxy-api/issues/124) | | in progress
-v0 | UI | End-to-end tests | | [cvan/galaxy#48](https://github.com/cvan/galaxy/issues/48) | |
+v0 | UI | End-to-end tests | [@scottmeng](http://github.com/scottmeng) | [cvan/galaxy#48](https://github.com/cvan/galaxy/issues/48) | | in progress
