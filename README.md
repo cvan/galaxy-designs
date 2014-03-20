@@ -82,6 +82,7 @@ See [issues above](#game-submission).
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
 v0 | UI | Implement UI for Developer Dashboard (My Games) | [@CharlesChong](https://github.com/CharlesChong) | [cvan/galaxy#99](https://github.com/cvan/galaxy/issues/99) | [cvan/galaxy#109](https://github.com/cvan/galaxy/pull/109) | in review
+v0 | API | Filter games by developer userID | [@CharlesChong](https://github.com/CharlesChong) | [cvan/galaxy-api#150](https://github.com/cvan/galaxy-api/issues/150) | |
 
 ## Reviewer dashboard
 
