@@ -49,6 +49,7 @@ v0 | UI/API | Documentation for REST API | [@scottmeng](http://github.com/scottm
 
 Milestone | Type | Task | Assignee | Issue | Pull request | Status
 --------- | ---- | ---- | -------- | ----- | ------------ | ------
+v0 | API | Have feedback modal endpoint accept URL-encoded strings | [@at-kevinlau](https://github.com/at-kevinlau) | [cvan/galaxy#163](https://github.com/cvan/galaxy-api/issues/163) |  | in progress
 v0 | UI | Implement potato captcha for feedback modal (front-end) |  | [cvan/galaxy#151](https://github.com/cvan/galaxy/issues/151) |  | 
 v0 | API | Implement potato captcha for feedback modal (API) |  | [cvan/galaxy-api#160](https://github.com/cvan/galaxy-api/issues/160) |  | 
 v0 | API | Send email when feedback is received |  | [cvan/galaxy-api#140](https://github.com/cvan/galaxy-api/issues/140) |  | 
